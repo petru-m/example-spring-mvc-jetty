@@ -1,0 +1,7 @@
+/home/petru/IdeaProjects/example-spring-mvc-jetty/src/main/java/eu/kielczewski/example/controller/IndexController.java
+/home/petru/IdeaProjects/example-spring-mvc-jetty/src/main/java/eu/kielczewski/example/config/WebMvcConfig.java
+/home/petru/IdeaProjects/example-spring-mvc-jetty/src/main/java/eu/kielczewski/example/config/AppConfig.java
+/home/petru/IdeaProjects/example-spring-mvc-jetty/src/main/java/eu/kielczewski/example/data/user.java
+/home/petru/IdeaProjects/example-spring-mvc-jetty/src/main/java/eu/kielczewski/example/initializer/EmbeddedJetty.java
+/home/petru/IdeaProjects/example-spring-mvc-jetty/src/main/java/eu/kielczewski/example/controller/RegisterController.java
+/home/petru/IdeaProjects/example-spring-mvc-jetty/src/main/java/eu/kielczewski/example/config/PropertySourcesConfig.java

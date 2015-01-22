@@ -1,0 +1,6 @@
+#surefire
+#Tue Jan 13 11:49:39 EET 2015
+user.dir=/home/petru/IdeaProjects/example-spring-mvc-jetty
+idea.version=14.0.2
+localRepository=/home/petru/.m2/repository
+basedir=/home/petru/IdeaProjects/example-spring-mvc-jetty
